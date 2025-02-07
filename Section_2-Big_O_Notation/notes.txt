@@ -1,0 +1,6 @@
+
+Intro to Big O
+https://cs.slides.com/colt_steele/big-o-notation#/17/0/0
+
+Visualizing Time Complexities
+https://rithmschool.github.io/function-timer-demo/
